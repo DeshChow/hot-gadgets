@@ -1,0 +1,16 @@
+p{
+    color: gray;
+}
+
+.container{
+    margin-bottom: 20px;
+}
+
+.button-style{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
