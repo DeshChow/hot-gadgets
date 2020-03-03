@@ -3,7 +3,7 @@ p{
 }
 
 .container{
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .button-style{
@@ -13,4 +13,28 @@ p{
     border-radius: 10px;
     padding: 9px 25px;
     cursor: pointer;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+    text-align: center;
+}
+
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.see-all h6{
+    color: orange;
+}
+.card-style{
+    margin-top: 50px;
 }
